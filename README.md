@@ -387,8 +387,9 @@ getFileData(fname=String)
 patternRead(fname=String)
 ```
 
-# CRYPTONIC WRITTEN BY SEPTILLIONER
-# THANKS FOR SUPPORTS HeykLog && Рнаитом
-# TR-EN
+<h1> CRYPTONIC WRITTEN BY SEPTILLIONER </h1>
+<h2> THANKS FOR SUPPORTS HeykLog && Рнаитом </h2>
+<h3> TR-EN </h3>
+<h4> Licensed By MIT </h4>
 
 
