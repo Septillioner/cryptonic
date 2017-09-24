@@ -1,13 +1,17 @@
 # Cryptonic V1.3
+
 <p>Encrypt your messages, files and folders.</p>
 # Recommendations
+
 <p>i shouldn't encrypt if file size greater than ram </p>
 <p>divide parts big files if file size greater than ram</p>
 <p>if you wont calculate bruteforce difference. this is formula 255^n - n=patternsize<=>byte
 <p>this program now baby so i waiting reviews</p>
 <p>Only those who know the pattern key can decrypt the password</p>
 <p>Good Decrypting.</p>
+
 # Console commands for Cryptonic.
+
 ```
 pattern
   set - set patterns for encoding,decoding.(cache from import)
@@ -51,6 +55,7 @@ Console-Input - Filename for keeping files and folders(String)
   decompress - Decompressing all paths and files with entered compress file name
 Argument-Input - Filename for decompressing files and folders(String)
  ```
+ 
 <h1> Examples for Cryptonic Console</h1>
 <h3>Creating patterns</h3>
 <h4>Creating 1024 bytes pattern</h4>
