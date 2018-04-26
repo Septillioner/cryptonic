@@ -1,12 +1,12 @@
 # Cryptonic V1.3
 
-<p>Encrypt your messages, files and folders.</p>
+<p>Basicly Encrypt your messages, files and folders.</p>
 
 # Recommendations
 
 <p>i shouldn't encrypt if file size greater than ram </p>
 <p>divide parts big files if file size greater than ram</p>
-<p>if you wont calculate bruteforce chocies. this is formula 255^n - n=patternsize<=>byte
+<p>if you wanna calculate bruteforce chocies. this is formula 255^n - n=patternsize<=>byte
 <p>this program now baby so i waiting reviews</p>
 <p>Only those who know the pattern key can decrypt the password</p>
 <p>Good Decrypting.</p>
